@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="Nouveau document 1">
+   sodipodi:docname="logo.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.1436214"
-     inkscape:cx="422.22321"
-     inkscape:cy="827.0928"
+     inkscape:zoom="1.6411117"
+     inkscape:cx="204.38793"
+     inkscape:cy="753.51224"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -59,7 +59,7 @@
        x="204.8902"
        y="144.55263"
        ry="2.2306917"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -71,7 +71,7 @@
        y="204.8902"
        ry="2.2306917"
        transform="matrix(0,-1,1,0,0,0)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -83,7 +83,7 @@
        y="-286.45892"
        ry="2.2306917"
        transform="scale(-1,-1)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -95,7 +95,7 @@
        y="-313.67932"
        ry="2.2306917"
        transform="matrix(0,1,-1,0,0,0)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -106,7 +106,7 @@
        x="238.7426"
        y="179.64313"
        ry="1.1086025"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -118,7 +118,7 @@
        y="238.7426"
        ry="0.84945816"
        transform="matrix(0,-1,1,0,0,0)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -130,7 +130,7 @@
        y="-250.16728"
        ry="1.1086025"
        transform="scale(-1,-1)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <rect
@@ -142,15 +142,15 @@
        y="-280.17004"
        ry="0.84945816"
        transform="matrix(0,1,-1,0,0,0)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3063"
-       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
+       style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#e6e6e6;fill-opacity:1;stroke:none;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor"
        transform="translate(-201.19757,105.74353)"
-       inkscape:export-filename="/home/pierre/logo.png"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
        inkscape:export-xdpi="155.9874"
        inkscape:export-ydpi="155.9874"><flowRegion
          id="flowRegion3065"><rect
@@ -159,27 +159,33 @@
            height="183.80112"
            x="399.32425"
            y="177.20764"
-           style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor" /></flowRegion><flowPara
+           style="font-size:44px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor;fill:#e6e6e6;fill-opacity:1" /></flowRegion><flowPara
          id="flowPara3069"
-         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor Bold;fill:#ffaaaa">QPass</flowPara></flowRoot>    <flowRoot
+         style="font-size:40px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:TeX Gyre Adventor;-inkscape-font-specification:TeX Gyre Adventor Bold;fill:#e6e6e6;fill-opacity:1">QPass</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3071"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
+       inkscape:export-xdpi="155.9874"
+       inkscape:export-ydpi="155.9874"><flowRegion
          id="flowRegion3073"><rect
            id="rect3075"
            width="225.78613"
            height="267.77118"
            x="137.15108"
            y="129.62462" /></flowRegion><flowPara
-         id="flowPara3077"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3077" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3079"
-       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+       style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:Sans;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"
+       inkscape:export-filename="/home/pierre/QPass/logo.png"
+       inkscape:export-xdpi="155.9874"
+       inkscape:export-ydpi="155.9874"><flowRegion
          id="flowRegion3081"><rect
            id="rect3083"
            width="120.82358"
            height="153.0121"
            x="203.39412"
            y="139.42113" /></flowRegion><flowPara
-         id="flowPara3085"></flowPara></flowRoot>  </g>
+         id="flowPara3085" /></flowRoot>  </g>
 </svg>
