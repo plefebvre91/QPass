@@ -32,7 +32,6 @@ ApplicationWindow {
         activeFocusOnPress: true
         tickmarksEnabled: true
         onValueChanged: Controller.updateSizeLabel(this.value)
-
     }
 
     Text {
@@ -67,42 +66,42 @@ ApplicationWindow {
         font.pixelSize: 12
     }
 
-Text {
-    id: textPassword
-    x: 30
-    y: 425
-    width: 260
-    height: 36
-    color: "#e6e6e6"
-    text: "..."
-    verticalAlignment: Text.AlignVCenter
-    horizontalAlignment: Text.AlignHCenter
-    font.bold: false
-    font.pixelSize: 32
-}
+    Text {
+        id: textPassword
+        x: 30
+        y: 425
+        width: 260
+        height: 36
+        color: "#e6e6e6"
+        text: "..."
+        verticalAlignment: Text.AlignVCenter
+        horizontalAlignment: Text.AlignHCenter
+        font.bold: false
+        font.pixelSize: 32
+    }
 
-Image {
-    id: image
-    x: 91
-    y: 13
-    width: 145
-    height: 178
-    fillMode: Image.PreserveAspectFit
-    source: "logo.png"
-}
+    Image {
+        id: image
+        x: 91
+        y: 13
+        width: 145
+        height: 178
+        fillMode: Image.PreserveAspectFit
+        source: "logo.png"
+    }
 
-Text {
-    id: textSubtitle
-    x: 91
-    y: 197
-    width: 145
-    height: 11
-    color: "#e6e6e6"
-    text: qsTr("Générateur de mots de passes")
-    font.pointSize: 6
-    horizontalAlignment: Text.AlignHCenter
-    verticalAlignment: Text.AlignTop
-}
+    Text {
+        id: textSubtitle
+        x: 91
+        y: 197
+        width: 145
+        height: 11
+        color: "#e6e6e6"
+        text: qsTr("Générateur de mots de passes")
+        font.pointSize: 6
+        horizontalAlignment: Text.AlignHCenter
+        verticalAlignment: Text.AlignTop
+    }
 
     Text {
         id: textSizeLabel2
@@ -116,6 +115,4 @@ Text {
         horizontalAlignment: Text.AlignLeft
         verticalAlignment: Text.AlignBottom
     }
-
-
 }
